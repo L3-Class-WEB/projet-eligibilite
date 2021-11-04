@@ -1,0 +1,23 @@
+nav ul {
+    display: inline-block;
+    list-style-type : none;
+    width: 90%;
+    margin: auto;
+    border: solid;
+    background-color: rgba(31, 22, 22, 0.822);
+}
+
+nav li {
+    float: left;
+    padding: 1% 4%;
+
+
+}
+
+nav li a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+
